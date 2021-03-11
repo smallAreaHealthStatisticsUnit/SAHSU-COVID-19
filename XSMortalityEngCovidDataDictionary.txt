@@ -1,0 +1,25 @@
+MSOA11 - Middle Layer Super Output Area 2011 code
+AbsXSMeanM - Estimate of mean absolute excess mortality, males
+AbsXSMedianM - Estimate of median absolute excess mortality, males
+AbsXSL95M - Estimate of lower 95% credible interval for absolute excess mortality, males
+AbsXSU95M - Estimate of upper 95% credible interval for absolute excess mortality, males
+PosteriorProbabilityM - Posterior probability that absolute excess mortality is greater than zero, males
+RelXSMeanM - Estimate of mean of relative mortality, males
+RelXSMedianM - Estimate of median of relative mortality, males
+RelXSL95M - Estimate of lower 95% credible interval for relative mortality, males
+RelXSU95M - Estimate of uper 95% credible interval for relative mortality, males
+M40plus - 2019 population estimate, males over the age of 40
+XSrateM - estimate of absolute excess mortality in males per 100,000 males over the age of 40
+pcIncM - estimate of percent increase in mortality, males
+AbsXSMeanF - Estimate of mean absolute excess mortality, females
+AbsXSMedianF - Estimate of median absolute excess mortality, females
+AbsXSL95F - Estimate of lower 95% credible interval for absolute excess mortality, females
+AbsXSU95F - Estimate of upper 95% credible interval for absolute excess mortality, females
+PosteriorProbabilityF - Posterior probability that absolute excess mortality is greater than zero, females
+RelXSMeanF - Estimate of mean of relative mortality, females
+RelXSMedianF - Estimate of median of relative mortality, females
+RelXSL95F - Estimate of lower 95% credible interval for relative mortality, females
+RelXSU95F - Estimate of uper 95% credible interval for relative mortality, females
+F40plus - 2019 population estimate, females over the age of 40
+XSrateF - estimate of absolute excess mortality in females per 100,000 females over the age of 40
+pcIncF - estimate of percent increase in mortality, females
